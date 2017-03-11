@@ -4,10 +4,12 @@
 ## What is it?
 Neutrino preset to output error on the browser window
 
-<img src="https://raw.githubusercontent.com/sbovyrin/neutrino-preset-dev-errors/demo.png" alt="demo dev error"/>
+<a href="https://www.npmjs.com/package/neutrino-preset-dev-errors">
+    <img src="https://raw.githubusercontent.com/sbovyrin/neutrino-preset-dev-errors/master/demo.png" alt="demo dev error"/>
+</a>
 
 ## How to use?
-``
+
 ```
 // package.json
 {
