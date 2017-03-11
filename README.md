@@ -4,7 +4,7 @@
 ## What is it?
 Neutrino preset to output error on the browser window
 
-![demo](https://raw.githubusercontent.com/wiki/sbovyrin/neutrino-preset-dev-errors/demopng)
+<img src="https://raw.githubusercontent.com/sbovyrin/neutrino-preset-dev-errors/demo.png" alt="demo dev error"/>
 
 ## How to use?
 ``
