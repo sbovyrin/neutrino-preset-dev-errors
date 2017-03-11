@@ -4,10 +4,10 @@
 ## What is it?
 Neutrino preset to output error on the browser window
 
-![demo](demo.png)
+![demo](https://raw.githubusercontent.com/wiki/sbovyrin/neutrino-preset-dev-errors/demopng)
 
 ## How to use?
-
+``
 ```
 // package.json
 {
