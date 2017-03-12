@@ -5,7 +5,7 @@
 Neutrino preset to output error on the browser window
 
 <a href="https://www.npmjs.com/package/neutrino-preset-dev-errors">
-    <img src="https://raw.githubusercontent.com/sbovyrin/neutrino-preset-dev-errors/master/demo.png" alt="demo dev error"/>
+    <img src="https://raw.githubusercontent.com/sbovyrin/neutrino-presets/neutrino-preset-dev-errors/master/demo.png" alt="demo dev error"/>
 </a>
 
 ## How to use?

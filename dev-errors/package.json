@@ -1,0 +1,18 @@
+{
+  "name": "neutrino-preset-dev-errors",
+  "version": "1.0.1",
+  "description": "Neutrino preset for supporting output error to browser page",
+  "main": "index.js",
+  "keywords": [
+    "neutrino-preset",
+    "webpack-devServer-overlay"
+  ],
+  "author": "Sergey Bovyrin <sbovyrin@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/sbovyrin/neutrino-presets/dev-errors",
+  "homepage": "https://github.com/sbovyrin/neutrino-presets",
+  "bugs": "https://github.com/sbovyrin/neutrino-presets/issues",
+  "peerDependencies": {
+    "neutrino": "^5.0.0"
+  }
+}
