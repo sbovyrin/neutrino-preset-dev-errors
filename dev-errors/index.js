@@ -1,3 +1,3 @@
-module.exports = neutrino => {
-  neutrino.config.devServer.set('overlay', true);
+module.exports = ({ config }) => {
+  config.devServer.set('overlay', true);
 };
