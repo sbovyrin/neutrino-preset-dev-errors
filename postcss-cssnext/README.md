@@ -30,4 +30,4 @@ Use it is very simple. Just to add `neutrino-preset-postcss-cssnext` after your 
 ## Other my presets:
 
 - [Output dev errors](https://www.npmjs.com/package/neutrino-preset-dev-errors)
-- [postcss-cssnext](https://www.npmjs.com/package/neutrino-preset-postcss-autoprefixer)
+- [postcss-autoprefixer](https://www.npmjs.com/package/neutrino-preset-postcss-autoprefixer)
