@@ -17,8 +17,8 @@ Use it is very simple. Just to add `neutrino-preset-postcss-cssnext` after your 
 // package.json
 {
   ...
-  "config": {
-    "presets": [
+  "neutrino": {
+    "use": [
       "neutrino-preset-web",
       "neutrino-preset-postcss-cssnext"
     ]

@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-dev-errors",
-  "version": "1.0.4",
+  "version": "5.0.0",
   "description": "Neutrino preset for supporting output error to browser page",
   "main": "index.js",
   "keywords": [

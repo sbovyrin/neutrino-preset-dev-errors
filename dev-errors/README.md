@@ -1,4 +1,6 @@
 # neutrino-preset-dev-errors
+[![neutrino](https://img.shields.io/badge/neutrino-v5-blue.svg)]()
+[![npm](https://img.shields.io/npm/dt/neutrino-preset-dev-errors.svg)]()
 
 
 ## What is it?
@@ -11,17 +13,18 @@ Neutrino preset to output error on the browser window
 
 ## Requirements
 
-- Installed `neutrino` version 4+
+- Installed `neutrino` version 5+
 
 
 ## How to use?
+Use it is very simple. Just to add `neutrino-preset-dev-errors` after your main `neutrino-preset-(web|react|node|etc.)`
 
 ```
 // package.json
 {
   ...
-  "config": {
-    "presets": [
+  "neutrino": {
+    "use": [
       "neutrino-preset-web",
       "neutrino-preset-dev-errors"
     ]
@@ -30,3 +33,7 @@ Neutrino preset to output error on the browser window
 }
 ```
 
+## Other my presets:
+
+- [postcss-autoprefixer](https://www.npmjs.com/package/neutrino-preset-postcss-autoprefixer)
+- [postcss-next](https://www.npmjs.com/package/neutrino-preset-postcss-cssnext)

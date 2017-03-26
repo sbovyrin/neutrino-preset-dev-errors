@@ -31,8 +31,8 @@ Use it is very simple. Just to add `neutrino-preset-postcss-autoprefixer` after 
 // package.json
 {
   ...
-  "config": {
-    "presets": [
+  "neutrino": {
+    "use": [
       "neutrino-preset-web",
       "neutrino-preset-postcss-autoprefixer"
     ]
