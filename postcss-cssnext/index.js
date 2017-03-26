@@ -25,8 +25,10 @@ module.exports = ({ config }) => {
       .get('args')
       .shift().options.postcss;
 
-    config
-      .plugin('loader-options')
-      .set('args', postcssPlugins.concat(pluginOptions.options.postcss));
+    pluginOptions.options.postcss = postcssPlugins.concat(
+      pluginOptions.options.postcss
+    );
+
+    config.plugin('loader-options').use(LoaderOptionsPlugin, [pluginOptions]);
   }
 };
