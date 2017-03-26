@@ -9,7 +9,7 @@
     "autoprefixer"
   ],
   "author": "Sergey Bovyrin <sbovyrin@gmail.com>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "repository": "https://github.com/sbovyrin/neutrino-presets/postcss-autoprefixer",
   "homepage": "https://github.com/sbovyrin/neutrino-presets",
   "bugs": "https://github.com/sbovyrin/neutrino-presets/issues",
