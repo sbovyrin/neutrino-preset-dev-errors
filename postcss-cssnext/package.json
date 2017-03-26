@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-postcss-cssnext",
-  "version": "5.0.0",
+  "version": "4.9.9",
   "description": "Neutrino preset for supporting postcss cssnext",
   "main": "index.js",
   "keywords": [
