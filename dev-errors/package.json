@@ -5,7 +5,9 @@
   "main": "index.js",
   "keywords": [
     "neutrino-preset",
-    "webpack-devServer-overlay"
+    "webpack-devServer-overlay",
+    "javascript error",
+    "dev errors"
   ],
   "author": "Sergey Bovyrin <sbovyrin@gmail.com>",
   "license": "MIT",
