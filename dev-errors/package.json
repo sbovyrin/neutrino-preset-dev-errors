@@ -10,7 +10,7 @@
     "dev errors"
   ],
   "author": "Sergey Bovyrin <sbovyrin@gmail.com>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "repository": "https://github.com/sbovyrin/neutrino-presets/dev-errors",
   "homepage": "https://github.com/sbovyrin/neutrino-presets",
   "bugs": "https://github.com/sbovyrin/neutrino-presets/issues",

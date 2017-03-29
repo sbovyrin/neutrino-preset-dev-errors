@@ -36,4 +36,3 @@ Use it is very simple. Just to add `neutrino-preset-dev-errors` after your main 
 ## Other my presets:
 
 - [postcss-autoprefixer](https://www.npmjs.com/package/neutrino-preset-postcss-autoprefixer)
-- [postcss-next](https://www.npmjs.com/package/neutrino-preset-postcss-cssnext)

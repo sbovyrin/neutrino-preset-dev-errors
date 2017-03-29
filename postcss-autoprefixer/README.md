@@ -31,6 +31,10 @@ Use it is very simple. Just to add `neutrino-preset-postcss-autoprefixer` after 
 // package.json
 {
   ...
+  "browserslist": [
+    "> 5%",
+    "last 4 versions"
+  ],
   "neutrino": {
     "use": [
       "neutrino-preset-web",
@@ -41,7 +45,8 @@ Use it is very simple. Just to add `neutrino-preset-postcss-autoprefixer` after 
 }
 ```
 
+> `browserlist` you may set maintained browsers
+
 ## Other my presets:
 
 - [Output dev errors](https://www.npmjs.com/package/neutrino-preset-dev-errors)
-- [postcss-cssnext](https://www.npmjs.com/package/neutrino-preset-postcss-cssnext)
