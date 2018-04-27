@@ -6,6 +6,10 @@
 
 - Installed `neutrino` version 5+
 
+## Installing
+```
+npm install -D neutrino-preset-postcss-autoprefixer
+```
 
 ## What is it?
 Neutrino preset for supporting postcss autoprefixer
@@ -19,15 +23,16 @@ Input:
 
 Output:
 ```css
-  display: -ms-flexbox;
+  display: -ms-flexbox;/* added <--- */
   display: flex;
-  -ms-flex-direction: column;
-  flex-direction: column;
+  -ms-flex-direction: column;/* added <--- */
+  flex-direction: column;/* added <--- */
 ```
+
 ## How to use?
 Use it is very simple. Just to add `neutrino-preset-postcss-autoprefixer` after your main `neutrino-preset-(web|react|node|etc.)`
 
-```
+```json
 // package.json
 {
   ...
@@ -38,7 +43,7 @@ Use it is very simple. Just to add `neutrino-preset-postcss-autoprefixer` after 
   "neutrino": {
     "use": [
       "neutrino-preset-web",
-      "neutrino-preset-postcss-autoprefixer"
+      "neutrino-preset-postcss-autoprefixer" // here <---
     ]
   }
   ...

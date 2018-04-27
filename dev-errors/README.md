@@ -15,18 +15,22 @@ Neutrino preset to output error on the browser window
 
 - Installed `neutrino` version 5+
 
+## Installing
+```
+npm install -D neutrino-preset-dev-errors
+```
 
 ## How to use?
-Use it is very simple. Just to add `neutrino-preset-dev-errors` after your main `neutrino-preset-(web|react|node|etc.)`
+Using is very simple. Just to add `neutrino-preset-dev-errors` after your main `neutrino-preset-(web|react|node|etc.)`
 
-```
+```json
 // package.json
 {
   ...
   "neutrino": {
     "use": [
       "neutrino-preset-web",
-      "neutrino-preset-dev-errors"
+      "neutrino-preset-dev-errors" // here <---
     ]
   }
   ...
