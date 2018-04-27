@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-postcss-autoprefixer",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Neutrino preset for supporting postcss autoprefixer",
   "main": "index.js",
   "keywords": [
